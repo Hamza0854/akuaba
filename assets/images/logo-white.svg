@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 96" role="img" aria-label="Akuaba Medical Centre">
+  <g fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 60c0-18 12-32 28-34-2 18-12 30-28 34z"/>
+    <path d="M30 60c14 6 28 2 36-10"/>
+    <path d="M22 44v14M15 51h14"/>
+  </g>
+  <circle cx="26" cy="70" r="4" fill="#4FC1E9"/>
+  <text x="98" y="52" font-family="Outfit, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="1.5" fill="#FFFFFF">AKUABA</text>
+  <text x="100" y="78" font-family="Outfit, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" letter-spacing=".5" fill="#E3D6F0">Medical Centre</text>
+</svg>
